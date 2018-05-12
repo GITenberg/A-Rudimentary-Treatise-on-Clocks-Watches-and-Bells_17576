@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7492
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Beckett%2C_1st_Baron_Grimthorpe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17576#A-Rudimentary-Treatise-on-Clocks-Watches-and-Bells
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
